@@ -1,5 +1,5 @@
 # Darkmap3
-![img](Screenshot from 2022-05-05 18-35-16.png)
+![screenshot](https://github.com/DefaltFUCK/Darkmap3/blob/main/Screenshot%20from%202022-05-05%2018-35-16.png)
 
 
 ## Install 
