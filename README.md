@@ -26,6 +26,6 @@
 
 ### Telegram: M4RC0W1CKZ
 
-### Discord: Defalt_Dsrk#0513
+### Discord: Defalt_Drsk#0513
 
 ### Email: Defalt_Drsk@protonmail.com
