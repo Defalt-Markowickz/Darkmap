@@ -18,3 +18,12 @@
 ### ./Darkmap.py -ip 192.168.1.40
 
 ### ./Darkmap.py --target 192.168.1.40
+
+
+## Help
+
+### Telegram: M4RC0W1CKZ
+
+### Discord: Defalt_Dsrk#0513
+
+### Email: Defalt_Drsk@protonmail.com
