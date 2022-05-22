@@ -4,15 +4,15 @@
 
 ## Install 
 
-### Step 1: git clone https://github.com/DefaltFUCK/Darkmap3.git
+### Step 1: pip install python-nmap
 
-### Step 2: cd Darkmap3/
+### Step 2: git clone https://github.com/DefaltFUCK/Darkmap3.gi
 
-### Step 3: bash install.sh
+### Step 3: cd Darkmap3/
 
 ### Step 4: chmod +x Darkmap.py
 
-### Step 5: ./Darkmap.py --help
+### Step 5: ./Darkmap.py
 
 
 ## Examples
