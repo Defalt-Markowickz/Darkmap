@@ -2,11 +2,11 @@
 ![screenshot](https://github.com/DefaltFUCK/Darkmap3/blob/main/Screenshot%20from%202022-05-05%2018-35-16.png)
 
 
-## Install 
+# Install on Linux
 
 ### Step 1: pip install python-nmap
 
-### Step 2: git clone https://github.com/DefaltFUCK/Darkmap3.gi
+### Step 2: git clone https://github.com/DefaltFUCK/Darkmap3.git
 
 ### Step 3: cd Darkmap3/
 
@@ -14,17 +14,28 @@
 
 ### Step 5: ./Darkmap.py
 
+# Install on Termux
 
-## Examples
+### Step 1: git clone https://github.com/DefaltFUCK/Darkmap3.git
+
+### Step 2: cd Darkmap/
+
+### Step 3: bash install.sh
+
+### Step 4: chmod +x Darkmap.py
+
+### Step 5: ./Darkmap.py 
+
+#  Examples
 
 ### ./Darkmap.py -ip 192.168.1.40
 
 ### ./Darkmap.py --target 192.168.1.40
 
 
-## Help
+# Help
 
-### Telegram: M4RC0W1CKZ
+### Telegram: @M4RC0W1CKZ
 
 ### Discord: Defalt_Drsk#0513
 
