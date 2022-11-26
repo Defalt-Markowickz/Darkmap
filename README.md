@@ -35,8 +35,6 @@
 
 # Help
 
-### Telegram: @M4RC0W1CKZ
+### Telegram: https://t.me/Defalt00FFFF
 
-### Discord: Defalt_Drsk#0513
-
-### Email: Defalt_Drsk@protonmail.com
+### Email: Defalt_00FFFF@proton.me
