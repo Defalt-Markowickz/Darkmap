@@ -6,7 +6,7 @@
 
 ### Step 1: pip install python-nmap
 
-### Step 2: git clone https://github.com/DefaltFUCK/Darkmap3.git
+### Step 2: git clone https://github.com/Defalt00FFFF/Darkmap3.git
 
 ### Step 3: cd Darkmap3/
 
@@ -16,7 +16,7 @@
 
 # Install on Termux
 
-### Step 1: git clone https://github.com/DefaltFUCK/Darkmap3.git
+### Step 1: git clone https://github.com/Defalt00FFFF/Darkmap3.git
 
 ### Step 2: cd Darkmap/
 
