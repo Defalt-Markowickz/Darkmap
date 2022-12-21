@@ -37,4 +37,4 @@
 
 ### Telegram: https://t.me/Defalt00FFFF
 
-### Email: Defalt_00FFFF@proton.me
+### Mail: Defalt_00FFFF@proton.me
