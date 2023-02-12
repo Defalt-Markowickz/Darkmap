@@ -29,11 +29,11 @@ https://user-images.githubusercontent.com/85587928/218288349-850ad62a-36cd-41bb-
 
 #  👾 Novedades 👾
 
-### -T5, -vvv.
+### ☑️ Nuevos parametros.
 
-### Nuevo banner.
+### ☑️ Nuevo banner.
 
-### Nuevo aire.
+### ☑️ Nuevo look.
 
 
 #  🔰 Testeo 🔰
