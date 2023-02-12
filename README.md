@@ -1,5 +1,5 @@
 # Darkmap3
-![screenshot](https://github.com/DefaltFUCK/Darkmap3/blob/main/Screenshot%20from%202022-05-05%2018-35-16.png)
+![screenshot](https://raw.githubusercontent.com/Defalt-Markowickz/images/main/Darkmap.mp4?token=GHSAT0AAAAAAB6UHRUZ2UPVIGNINPUQ6FY2Y7IIEIQ)
 
 
 # Install on Linux
