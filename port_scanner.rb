@@ -35,6 +35,7 @@ print("
 	%%%%%%%%%%%%%%%#%%#%%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	%%%%%%%%%%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	\n")
+print("ByDefalt Markowickz")
 
 print "Pon la IP del servidor: "
 ip = gets.chomp
