@@ -35,6 +35,6 @@ https://user-images.githubusercontent.com/85587928/218288349-850ad62a-36cd-41bb-
 
 # Help
 
-### Telegram: https://t.me/Defalt00FFFF
+### Telegram: https://t.me/DefaltMarkowickz
 
-### Mail: Defalt_00FFFF@proton.me
+### Mail: Defalt_Markowickz@proton.me
