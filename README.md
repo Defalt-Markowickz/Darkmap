@@ -26,12 +26,33 @@ https://user-images.githubusercontent.com/85587928/218288349-850ad62a-36cd-41bb-
 
 ### Step 5: ./Darkmap.py 
 
+
+#  👾 Novedades 👾
+
+### -T5, -vvv.
+
+### Nuevo banner.
+
+### Nuevo aire.
+
+
+#  🔰 Testeo 🔰
+
+### Arch Linux (Y derivadas). ✅
+
+### Kali Linux and Parrot Security (Y derivadas) ✅
+
+### Termux ✅
+
+
 #  Examples
 
-### ./Darkmap.py -ip 192.168.1.40
+### [~] python3 Darkmap.py -ip 192.168.1.40
+### [~] python3 Darkmap.py --target 192.168.1.40
 
-### ./Darkmap.py --target 192.168.1.40
+### [~] ./Darkmap.py -ip 192.168.1.40
 
+### [~] ./Darkmap.py --target 192.168.1.40
 
 # Help
 
