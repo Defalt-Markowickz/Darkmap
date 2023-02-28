@@ -1,6 +1,6 @@
 # Darkmap V5.0
 
-https://github.com/Defalt-Markowickz/images/blob/main/Darkmap.gif
+https://raw.githubusercontent.com/Defalt-Markowickz/images/main/Darkmap.gif
 
 # 💻 Install on Linux 💻
 
